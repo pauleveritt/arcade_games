@@ -3,10 +3,10 @@
 During the webinar we wrote a simple game. This directory has 
 the code. To run it:
 
-#. Make a virtual environment.
+1. Make a virtual environment.
 
-#. In that virtual environment, ``pip install arcade``
+2. In that virtual environment, ``pip install arcade``
 
-#. ``cd nov_2016``
+3. ``cd nov_2016``
 
-#. ``python game_demo.py``
+4. ``python game_demo.py``
